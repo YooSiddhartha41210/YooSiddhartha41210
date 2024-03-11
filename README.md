@@ -1,4 +1,15 @@
-<h1 align="center">Yoo!Whats Up?👋, Me Siddhartha41210(Aka Siddhartha Banerjee)</h1>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<h1 align="center">Yoo! Whats Up?👋, Me Siddhartha41210(Aka Siddhartha Banerjee)</h1>
 <h3 align="center">A Full Stack developer from India</h3>
 
 ### Stats
@@ -44,4 +55,5 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </p>
 
-
+</body>
+</html>
