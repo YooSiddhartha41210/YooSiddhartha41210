@@ -7,7 +7,7 @@
 <body>
 
 <p align="center">
-<a href="https://git.io/YooSiddhartha41210"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=2000&color=F76A11&background=FFA8A800&random=false&width=435&separator=%3C&lines=Yoo!+Whats+Up%3F+Everybody%F0%9F%91%8B%2C%3CMe+Siddhartha41210+;%3CA.k.a+Siddhartha+Banerjee." alt="Typing SVG" /></a>
+<a href="https://github.com/YooSiddhartha41210"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=2000&color=F76A11&background=FFA8A800&random=false&width=435&separator=%3C&lines=Yoo!+Whats+Up%3F+Everybody%F0%9F%91%8B%2C%3CMe+Siddhartha41210+;%3CA.k.a+Siddhartha+Banerjee." alt="Typing SVG" /></a>
 </p>
 <h3 align="center">A Full Stack developer from India</h3>
 
