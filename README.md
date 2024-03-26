@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://github.com/YooSiddhartha41210"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=2000&color=F76A11&background=FFA8A800&random=false&width=435&separator=%3C&lines=Yoo!+Whats+Up%3F+Everybody%F0%9F%91%8B%2C%3CMe+Siddhartha41210+;%3CA.k.a+Siddhartha+Banerjee." alt="Typing SVG" /></a>
 </p>
-<h3 align="center">A Full Stack developer from India</h3>
+<h3 align="center">A 13-year old backend developer from India</h3>
 
 ## Stats
 
@@ -28,7 +28,7 @@
 ## About Me
 - 🔭 I’m currently working on **Koru, A Discord Bot**
 - 🌱 I’m currently learning **Nothing**
-- 🤟 I’m looking to collaborate for this with [@himangshu147-git](https://github.com/himangshu147-git)
+- 🤟 I’m looking to collaborate for this with [No body](https://github.com/YooSiddhartha41210)
 - 🤝 I’m looking for help with **Discord Bot Creator**
 - 💬 Ask me about **Python, HTML, CSS**
 - 📫 How to reach me: **siddharthab41210@gmail.com**
